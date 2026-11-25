@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "title": "Ração Premium Cães Adultos Frango e Arroz 15kg",
+    "price": 189.9,
+    "category": "Rações",
+    "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=500&auto=format&fit=crop&q=60",
+    "description": "Ração completa e balanceada para cães adultos, com frango e arroz, vitaminas e minerais para pelagem brilhante e boa digestão.",
+    "material": "Frango, arroz e cereais",
+    "caracteristicas": "Alta digestibilidade, sem corantes artificiais",
+    "stock": 35,
+    "rating": {
+      "rate": 4.8,
+      "count": 214
+    },
+    "destaque": true,
+    "fallback": "assets/images/racao.svg"
+  },
+  {
+    "id": 2,
+    "title": "Arranhador Torre para Gatos com Playground",
+    "price": 249.9,
+    "category": "Brinquedos",
+    "image": "https://images.unsplash.com/photo-1545249390-6bdfa286032f?w=500&auto=format&fit=crop&q=60",
+    "description": "Torre com vários níveis, toquinhas e áreas de arranhar para gastar a energia do seu gato e proteger os móveis.",
+    "material": "Sisal e pelúcia",
+    "caracteristicas": "Vários andares, base estável, fácil de montar",
+    "stock": 8,
+    "rating": {
+      "rate": 4.6,
+      "count": 97
+    },
+    "destaque": false,
+    "fallback": "assets/images/brinquedo-gato.svg"
+  },
+  {
+    "id": 3,
+    "title": "Coleira Peitoral Ergonômica Ajustável",
+    "price": 79.9,
+    "category": "Acessórios",
+    "image": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?w=500&auto=format&fit=crop&q=60",
+    "description": "Coleira peitoral macia e resistente, com ajuste de tamanho e argola para identificação.",
+    "material": "Nylon acolchoado",
+    "caracteristicas": "Ajustável, resistente, fecho de segurança",
+    "stock": 42,
+    "rating": {
+      "rate": 4.5,
+      "count": 63
+    },
+    "destaque": false,
+    "fallback": "assets/images/coleira.svg"
+  },
+  {
+    "id": 4,
+    "title": "Shampoo Neutro para Cães e Gatos 500ml",
+    "price": 34.9,
+    "category": "Higiene",
+    "image": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?w=500&auto=format&fit=crop&q=60",
+    "description": "Shampoo neutro de uso frequente, limpa suavemente sem agredir a pele e deixa a pelagem macia e perfumada.",
+    "material": "Fórmula neutra (pH balanceado)",
+    "caracteristicas": "Hipoalergênico, para cães e gatos",
+    "stock": 60,
+    "rating": {
+      "rate": 4.7,
+      "count": 150
+    },
+    "destaque": false,
+    "fallback": "assets/images/shampoo.svg"
+  },
+  {
+    "id": 5,
+    "title": "Brinquedo Mordedor de Borracha Resistente",
+    "price": 29.9,
+    "category": "Brinquedos",
+    "image": "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?w=500&auto=format&fit=crop&q=60",
+    "description": "Mordedor de borracha atóxica para cães, massageia as gengivas e ajuda a gastar energia.",
+    "material": "Borracha atóxica",
+    "caracteristicas": "Resistente, lavável, textura massageadora",
+    "stock": 80,
+    "rating": {
+      "rate": 4.9,
+      "count": 128
+    },
+    "destaque": true,
+    "fallback": "assets/images/bola-pet.svg"
+  },
+  {
+    "id": 6,
+    "title": "Cama Nuvem Almofada Redonda Lavável G",
+    "price": 139.9,
+    "category": "Acessórios",
+    "image": "https://images.unsplash.com/photo-1541599540903-216a46ca1dc0?w=500&auto=format&fit=crop&q=60",
+    "description": "Caminha redonda e macia que acolhe o pet em qualquer posição. Capa removível e lavável.",
+    "material": "Pelúcia e enchimento de fibra",
+    "caracteristicas": "Lavável, antiderrapante, tamanho G",
+    "stock": 15,
+    "rating": {
+      "rate": 4.8,
+      "count": 89
+    },
+    "destaque": true,
+    "fallback": "assets/images/caminha.svg"
+  },
+  {
+    "id": 7,
+    "title": "Petisco Snacks Saudáveis para Gatos Sabores 50g",
+    "price": 12.5,
+    "category": "Petiscos",
+    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=500&auto=format&fit=crop&q=60",
+    "description": "Snacks crocantes por fora e macios por dentro, ideais para premiar e treinar seu gato.",
+    "material": "Frango e vegetais",
+    "caracteristicas": "Sem corantes, pacote de 50g",
+    "stock": 120,
+    "rating": {
+      "rate": 4.4,
+      "count": 41
+    },
+    "destaque": false,
+    "fallback": "assets/images/racao.svg"
+  },
+  {
+    "id": 8,
+    "title": "Caixa de Transporte para Viagem Tamanho M",
+    "price": 119.9,
+    "category": "Acessórios",
+    "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=500&auto=format&fit=crop&q=60",
+    "description": "Caixa de transporte segura e ventilada para cães e gatos de porte pequeno e médio.",
+    "material": "Plástico reforçado e metal",
+    "caracteristicas": "Ventilada, alça de transporte, porta com trava",
+    "stock": 12,
+    "rating": {
+      "rate": 4.6,
+      "count": 55
+    },
+    "destaque": false,
+    "fallback": "assets/images/peitoral.svg"
+  },
+  {
+    "id": 9,
+    "title": "Comedouro Duplo de Inox com Suporte de Madeira",
+    "price": 95.0,
+    "category": "Acessórios",
+    "image": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=500&auto=format&fit=crop&q=60",
+    "description": "Dois potes de inox removíveis, um para água e outro para ração, com suporte de madeira.",
+    "material": "Aço inox e madeira",
+    "caracteristicas": "Fácil de limpar, antiderrapante",
+    "stock": 25,
+    "rating": {
+      "rate": 4.7,
+      "count": 72
+    },
+    "destaque": true,
+    "fallback": "assets/images/comedouro.svg"
+  },
+  {
+    "id": 10,
+    "title": "Areia Sanitária Silica Premium para Gatos 1,6kg",
+    "price": 54.9,
+    "category": "Higiene",
+    "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=500&auto=format&fit=crop&q=60",
+    "description": "Areia de sílica de alta absorção que controla odores e dura mais.",
+    "material": "Sílica",
+    "caracteristicas": "Alta absorção, controle de odores, baixa poeira",
+    "stock": 40,
+    "rating": {
+      "rate": 4.5,
+      "count": 66
+    },
+    "destaque": false,
+    "fallback": "assets/images/shampoo.svg"
+  },
+  {
+    "id": 11,
+    "title": "Antipulgas e Carrapatos Bravecto para Cães 10-20kg",
+    "price": 239.9,
+    "category": "Remédios",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&auto=format&fit=crop&q=60",
+    "description": "Antipulgas e carrapatos de longa duração para cães de 10 a 20kg. Consulte um veterinário antes de usar.",
+    "material": "Uso oral",
+    "caracteristicas": "Ação prolongada, dose única, uso veterinário",
+    "stock": 20,
+    "rating": {
+      "rate": 4.8,
+      "count": 118
+    },
+    "destaque": false,
+    "fallback": "assets/images/medicamento.svg"
+  },
+  {
+    "id": 12,
+    "title": "Vermífugo Oral Drontal Plus para Cães 4 Comprimidos",
+    "price": 89.9,
+    "category": "Remédios",
+    "image": "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=500&auto=format&fit=crop&q=60",
+    "description": "Vermífugo de amplo espectro em comprimidos. Siga a orientação do veterinário.",
+    "material": "Comprimido palatável",
+    "caracteristicas": "Amplo espectro, 4 comprimidos",
+    "stock": 30,
+    "rating": {
+      "rate": 4.6,
+      "count": 84
+    },
+    "destaque": false,
+    "fallback": "assets/images/medicamento.svg"
+  },
+  {
+    "id": 13,
+    "title": "Bolinha Interativa Dispensadora de Petiscos",
+    "price": 45.0,
+    "category": "Brinquedos",
+    "image": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?w=500&auto=format&fit=crop&q=60",
+    "description": "Bolinha que libera petiscos enquanto o pet brinca, estimulando mente e corpo.",
+    "material": "Plástico atóxico",
+    "caracteristicas": "Dispensa petiscos, resistente, fácil de lavar",
+    "stock": 0,
+    "rating": {
+      "rate": 4.7,
+      "count": 58
+    },
+    "destaque": false,
+    "fallback": "assets/images/bola-pet.svg"
+  },
+  {
+    "id": 14,
+    "title": "Ossinho Natural de Cálcio para Cães 10 Unidades",
+    "price": 19.9,
+    "category": "Petiscos",
+    "image": "https://images.unsplash.com/photo-1601758124510-52d02ddb7cbd?w=500&auto=format&fit=crop&q=60",
+    "description": "Ossinhos ricos em cálcio que ajudam a limpar os dentes e entretêm seu cão.",
+    "material": "Cálcio e proteínas naturais",
+    "caracteristicas": "10 unidades, ajuda na higiene dental",
+    "stock": 90,
+    "rating": {
+      "rate": 4.3,
+      "count": 37
+    },
+    "destaque": false,
+    "fallback": "assets/images/pelucia.svg"
+  },
+  {
+    "id": 15,
+    "title": "Vitamina Suplemento Nutricional em Pasta para Gatos",
+    "price": 62.0,
+    "category": "Remédios",
+    "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=500&auto=format&fit=crop&q=60",
+    "description": "Suplemento em pasta com vitaminas e minerais para reforçar a saúde do seu gato.",
+    "material": "Pasta oral",
+    "caracteristicas": "Sabor agradável, fácil aplicação",
+    "stock": 18,
+    "rating": {
+      "rate": 4.5,
+      "count": 29
+    },
+    "destaque": false,
+    "fallback": "assets/images/medicamento.svg"
+  }
+]
